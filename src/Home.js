@@ -18,6 +18,10 @@ const Home = () =>{
                     <li>
                         <Link to="/App">App</Link>
                     </li>
+
+                     <li>
+                        <Link to="/App2">App2</Link>
+                    </li>
                 </ul>
             </nav>
         </div>
